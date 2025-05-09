@@ -29,7 +29,6 @@ print(my_dog.name)  # Output: Buddy
 my_dog.bark()  # Output: Buddy says woof!
 
 
-## practice
 ## 1. create a car class with brand and year attributes
 ## 2. add a method start() that prints "Brand is starting!"
 ## 3. create an object of Car and call the method
@@ -55,7 +54,6 @@ my_car.start()
 ## A class is a blueprint; an object is an instance of that blueprint
 
 
-## bonus
 ## 1. create a class Dog
 ## 2. attributes: name, age
 ## 3. method: speak() that prints:
